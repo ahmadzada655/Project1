@@ -18,7 +18,7 @@ with (paper) {
         radius: radius,
         fillColor: {
             stops: stops,
-            radial: true,
+            radial: false,
             origin: from,
             destination: to
         },
